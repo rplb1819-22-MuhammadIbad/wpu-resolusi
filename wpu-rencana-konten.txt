@@ -6,7 +6,7 @@ RENCANA KONTEN WPU
     - Vue
     - React
 - Struktur Data Dasar
-- PHP Framworks
+- PHP Frameworks
   - Laravel
 - Interview
 - Vlogs
